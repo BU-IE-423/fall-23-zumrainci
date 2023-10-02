@@ -13,7 +13,9 @@ This is a <sub>subscript</sub> text
 
 This is a <sup>superscript</sup> text
 
-HEX Code: `#83AEED`
+HEX Code 1: `#83AEED`
+
+HEX Code 2: '#B21629'
 
 
 🤓
