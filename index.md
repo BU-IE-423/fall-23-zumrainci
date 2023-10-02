@@ -2,7 +2,6 @@
 
 This page is created for IE 423
 
-:nerd_face: :space_invader: :otter:
 
 ## Some feature trials below
 
@@ -17,4 +16,13 @@ This is a <sup>superscript</sup> text
 HEX Code: `#83AEED`
 
 
-# _Thank you for scrolling this far_ :heart_on_fire:
+:nerd_face:
+
+
+:space_invader:
+
+
+:otter:
+
+
+#### _Thank you for scrolling this far_ :heart_on_fire:
