@@ -5,26 +5,16 @@
 
 ### Some feature trials below
 
-**This is a bold text**
+🤓 **This is a bold text**
 
-_This is an italic text_
+👾 _This is an italic text_
 
-This is a <sub>subscript</sub> text
+↗️ This is a <sub>subscript</sub> text
 
-This is a <sup>superscript</sup> text
-
-HEX Code 1: `#83AEED`
-
-HEX Code 2: `#B21629`
+↘️ This is a <sup>superscript</sup> text
 
 
-🤓
 
 
-👾
 
-
-🌝
-
-
-#### _Thank you for scrolling this far_ ❤️‍🔥
+#### _Thank you for reading this far_ 🤝
