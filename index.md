@@ -14,10 +14,8 @@
 ↗️ This is a <sup>superscript</sup> text
 
 
-* [PDF Example](https://bu-ie-423.github.io/fall-23-zumrainci/IE423_Fall23_Syllabus.pdf): The PDF Example 1
+* [PDF Example](https://bu-ie-423.github.io/fall-23-zumrainci/IE423_Fall23_tutorial.pdf): PDF Example 1
 
-* [PDF Example 2](IE423_Fall23_Syllabus.pdf): You can use the path and the file name only
+* [PDF Example 2](IE423_Fall23_tutorial.pdf): PDF Example 2
 
 
-
-#### _Thank you for reading this far_ 🤝
