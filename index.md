@@ -9,9 +9,9 @@
 
 👾 _This is an italic text_
 
-↗️ This is a <sub>subscript</sub> text
+↘️ This is a <sub>subscript</sub> text
 
-↘️ This is a <sup>superscript</sup> text
+↗️ This is a <sup>superscript</sup> text
 
 
 
