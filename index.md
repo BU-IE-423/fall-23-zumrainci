@@ -19,7 +19,7 @@ HEX Code: `#83AEED`
 :nerd_face:
 
 
-:space_invader:
+💗
 
 
 :otter:
